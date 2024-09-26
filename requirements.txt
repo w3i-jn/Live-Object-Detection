@@ -1,0 +1,12 @@
+opencv-python
+streamlit==1.36.0
+pillow==10.4.0
+numpy==1.26.4
+Python-IO==0.3
+openvino==2024.3.0
+matplotlib==3.9.1
+streamlit-camera-input-live==0.2.0
+pyyaml==6.0.1
+ultralytics==8.2.63
+moviepy==1.0.3
+opencv-python-headless==4.10.0.84
